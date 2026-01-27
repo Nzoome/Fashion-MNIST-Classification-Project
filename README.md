@@ -33,12 +33,12 @@ https://github.com/zalandoresearch/fashion-mnist
 ---
 
 ## Project Structure
-├── Fashion‑MNIST Classification Project.ipynb # Jupyter notebook with full implementation
-├── data/ # Fashion‑MNIST .gz files
-│ ├── train-images-idx3-ubyte.gz
-│ ├── train-labels-idx1-ubyte.gz
-│ ├── t10k-images-idx3-ubyte.gz
-│ └── t10k-labels-idx1-ubyte.gz
+├── Fashion‑MNIST Classification Project.ipynb # Jupyter notebook with full implementation <br>
+├── data/ # Fashion‑MNIST .gz files <br>
+│ ├── train-images-idx3-ubyte.gz <br>
+│ ├── train-labels-idx1-ubyte.gz <br>
+│ ├── t10k-images-idx3-ubyte.gz <br>
+│ └── t10k-labels-idx1-ubyte.gz <br>
 ├── README.md # Project documentation
 
 
